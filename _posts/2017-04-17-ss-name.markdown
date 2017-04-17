@@ -4,8 +4,12 @@ subtitle: t messy
 author: Wferr
 avatar: img/authors/wferr.png
 image: img/f.jpg
-date: {}
+date: 2017-04-24T12:12:12.000Z
 ---
+> We loved with a love that was more than love
+
 ## A New Post
+> We loved with a love that was more than love
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
